@@ -37,5 +37,7 @@ The interactive dashboard above highlights selected visualizations in HTML forma
 - 🗺 [RESTCountries API](https://restcountries.com/)
 
 ---
+## 👤 Authors
 
-👤 **Author**: [@gantonnikov](https://github.com/gantonnikov)
+- Zoltan Jelovich  — [@zoltanjelovich](https://github.com/zoltanjelovich)
+- Grigory Antonnikov — [@gantonnikov](https://github.com/gantonnikov)
