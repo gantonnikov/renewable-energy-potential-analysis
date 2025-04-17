@@ -1,6 +1,5 @@
 # 🌍 Renewable Energy Potential Analysis
 
-## 🔗 Live Dashboard
 
 👉 [Dashboard](https://gantonnikov.github.io/renewable-energy-potential-analysis/dashboards/dashboard.html)
 
@@ -33,7 +32,7 @@ The interactive dashboard above highlights selected visualizations in HTML forma
 
 ## 📚 Data Sources
 
-- 🌐 [Our World in Data – Renewable Energy](https://ourworldindata.org/renewable-energy)
+- 🌐 [Our World in Data](https://ourworldindata.org)
 - 🌤 [NASA POWER Project](https://power.larc.nasa.gov/)
 - 🗺 [RESTCountries API](https://restcountries.com/)
 
